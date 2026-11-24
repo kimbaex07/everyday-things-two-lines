@@ -1,0 +1,2 @@
+A queue is a caterpillar made of people, each person one segment that shuffles forward only when the head moves.
+It works because it maps the slow, linked shuffle of a line, but it leaves out the grumbling, the phone-checking, and the friends who cut in.
